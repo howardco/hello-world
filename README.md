@@ -1,2 +1,2 @@
 # hello-world
-From https://guides.github.com/activities/hello-world/
+Porject from this tuturial: https://guides.github.com/activities/hello-world/
